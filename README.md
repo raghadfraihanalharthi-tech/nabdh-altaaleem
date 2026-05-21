@@ -18,9 +18,6 @@ Surfaces the gap between rising participation rates and absolute workforce repre
 
 Presents every data point with its original source for full transparency.
 
-## Live Dashboard
-
-https://raghadfraihanalharthi-tech.github.io/nabdh-altaaleem/
 
 ## Data Sources
 
